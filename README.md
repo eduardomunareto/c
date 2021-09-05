@@ -1,2 +1,2 @@
 # c
-primeiros passos com a linguagem C
+💻 primeiros passos com a linguagem C
